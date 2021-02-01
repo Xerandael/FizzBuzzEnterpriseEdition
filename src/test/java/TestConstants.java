@@ -1,5 +1,5 @@
 /**
- * Constants for FizzBuzz tests
+ * Constants for FizzBuzz tests.
  */
 public class TestConstants {
 
